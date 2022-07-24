@@ -2,4 +2,4 @@ mkdir hello
 cd hello
 touch hello.html
 файл:hello.html
-Hello, World
+<h1>Hello, World!</h1>

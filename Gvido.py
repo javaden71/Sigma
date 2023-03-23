@@ -1,3 +1,3 @@
 print('Как Вас зовут')
-name = input('Тимур')
+name = input('Вася')
 print(('Привет,Develop'), (name))

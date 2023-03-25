@@ -2,5 +2,6 @@ Proverka
 mkdir hello
 cd hello
 touch hello.html
-Hello, ВАСЯ
+Hello, ВАСЯ  Замена на Федю
+
 

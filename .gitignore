@@ -1,7 +1,6 @@
 /venv/
 /.idea/
 _pycache_/
-*.py[cod]
 docker-compose.yaml
 log/
 resources/products.json

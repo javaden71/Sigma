@@ -1,2 +1,2 @@
 print('Hello World')
-print("Hello Владимир<h2")
+print("Hello Git <h2")

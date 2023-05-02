@@ -1,3 +1,0 @@
-'OFFLINE_STATE'
-
-print('OFFLINE_STATE')

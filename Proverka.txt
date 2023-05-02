@@ -1,7 +1,0 @@
-Proverka  
-mkdir hello
-cd hello
-touch hello.html
-Hello, ВАСЯ  Замена на Федю
-
-
